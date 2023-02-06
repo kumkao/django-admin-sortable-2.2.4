@@ -1,0 +1,1 @@
+# django-admin-sortable-2.2.4
